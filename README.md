@@ -1,9 +1,9 @@
 # Landing Page (Rafaella Ballerini) 🖖 💻
 ## Aula online disponivel no Youtube
 
-Exercícios do capítulo 20 do curso de HTML5 e CSS3 do curso em vídeo
+Landing page criada durante aula online disponível no youtube
 
-[Acessse a páginado projeto cordel aqui](https://boca3l.github.io/Landing-Page-RB/)
+[Acessse a página aqui](https://boca3l.github.io/Landing-Page-RB/)
 
 [Acesse a aula](https://www.youtube.com/watch?v=llF6vD-RljE)
 
